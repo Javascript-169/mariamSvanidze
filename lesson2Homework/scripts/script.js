@@ -9,6 +9,8 @@ console.log(drinks[0]);
 
 //Question 3
 console.log(drinks[3]); 
+   //or
+console.log(drinks.at(-1));
 
 //Question 4
 color = ["Blue", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow "];
